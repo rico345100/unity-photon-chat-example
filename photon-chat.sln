@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "photon-chat", "Assembly-CSharp-firstpass.csproj", "{EBB145C4-B79C-6306-1B0E-D1968A1B1714}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "photon-chat", "Assembly-CSharp.csproj", "{9FD19203-B4B8-E190-07B8-6974E7E2A8EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "photon-chat", "Assembly-CSharp-Editor.csproj", "{342E0C6E-6D81-BB23-BB4E-21830C87794A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBB145C4-B79C-6306-1B0E-D1968A1B1714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBB145C4-B79C-6306-1B0E-D1968A1B1714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBB145C4-B79C-6306-1B0E-D1968A1B1714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBB145C4-B79C-6306-1B0E-D1968A1B1714}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FD19203-B4B8-E190-07B8-6974E7E2A8EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FD19203-B4B8-E190-07B8-6974E7E2A8EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FD19203-B4B8-E190-07B8-6974E7E2A8EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FD19203-B4B8-E190-07B8-6974E7E2A8EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{342E0C6E-6D81-BB23-BB4E-21830C87794A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{342E0C6E-6D81-BB23-BB4E-21830C87794A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{342E0C6E-6D81-BB23-BB4E-21830C87794A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{342E0C6E-6D81-BB23-BB4E-21830C87794A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
